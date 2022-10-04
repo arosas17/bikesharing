@@ -7,6 +7,9 @@ In an attempt to create a bike-sharing program in Des Moines, a story is created
 
 ## Results
 ![Generic_charts](/Images/Generic_charts.png)
+In these charts show a general data analysis of the data. The line graph demonstrates durations of each trip. Based on this data, it shows a large peak for the first 20 minutes, with the tip of this peak going over 140K for a short while. By the time the first hour is completed, the number of bikes checked out is approaching zero. This implies that the bike-sharing program in Des Moines should expect a similar trend where most bikes are out for about an hour.
+
+The heatmap on the right side shows the start times of the trips over the course of a week. The general pattern here is that there are high points of activity at 7AM to 9AM and 4PM to 7PM on weekdays, but on the weekends the high points of activity are from 11AM to 6PM. Because of the times that occur on the weekdays, there is some suggestion that people use the bike-sharing program for transportation from and to work or appointments while weekends are most likely using the bikes as a leisurely activity.
 
 ![GenderCharts.png](/Images/GenderCharts.png)
 
