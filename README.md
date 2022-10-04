@@ -15,13 +15,12 @@ The heatmap on the right side shows the start times of the trips over the course
 In this story point, the same charts as before are redisplayed, but separated by genders. In the top-left a pie graph was created to quickly show the distribution between male, female, and unknown. Looking at it shows use that approximately two-third of the users are male and about a quarter are female; the rest are of a undetermined gender. The pie graph is reflected in the rest of the charts, where the male has the highest peak (over 100K bikes) and the female count is lower (highest peak is about 30K). The heatmap also shows a higher number of male users by having a darker red color than the female category. However, in addition to the visual display of the diversity, the graphs demonstrates that the patterns between males, females, and unknown are the same. The line graphs still demonstrate the idea that peak duration times are within the first 20 minutes and approaches zero before the first hour. The heatmap shows the same pattern between genders as well but the male category is better shown because of the stronger contrast in colors as a result of the higher number of male customers. These trends show that ride-share program in Des Moines will likely have a strong male presence but females will utilize it similarly to men but in smaller numbers.
 
 ![Customer_vs_Subscribers.png](/Images/Customer_vs_Subscribers.png)
+This heatmap compares the amount of subscribers vs customers in the bike-sharing program and then breaks it down to gender categories, similar to the previous charts. This strongly demonstrates that there are a lot more subscribers than there are one-time customers, shown by both females and males. Oddly, the people whose gender is undetermined have higher rate of being a customer than a subscriber. A pie chart is also placed to the side to demonstrate how much more subscribers there are then customers, which it seems a little less than 25% are customers.
 
 ![Start_vs_EndPoints.png](/Images/Start_vs_EndPoints.png)
+The last story points show some the top starting vs top ending locations and five randomly point to see how they compared. The graph covering all the information demonstrates that the starting and ending locations are very similar throughout all of New York City. To get in more depth with this, the five points were select and compared. This comparison shows less than a 1,000 count difference, demonstrating a high return rate for an undetermined reason. If Des Moines is able to replicate this, it will save a lot of financial cost on reobtain bikes and distributing then to stations.
 
 
-There are at least seven visualizations for the NYC Citibike analysis
-There is a description of the results for each visualization
-Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
 
 Suspect suscribers use bikes for transportation purposes while customer utilize it for lesure.
