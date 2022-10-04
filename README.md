@@ -21,14 +21,9 @@ This heatmap compares the amount of subscribers vs customers in the bike-sharing
 The last story points show some the top starting vs top ending locations and five randomly point to see how they compared. The graph covering all the information demonstrates that the starting and ending locations are very similar throughout all of New York City. To get in more depth with this, the five points were select and compared. This comparison shows less than a 1,000 count difference, demonstrating a high return rate for an undetermined reason. If Des Moines is able to replicate this, it will save a lot of financial cost on reobtain bikes and distributing then to stations.
 
 
-
-
-Suspect suscribers use bikes for transportation purposes while customer utilize it for lesure.
 ## Summary
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis
-Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
-
+When creating the bike-sharing program for Des Moines, there will be several expected patterns that will likely occur based on the New York City Citibike data. One expectation is that most riders will ride for about 20 minutes and will likely not exceed an hour, suggesting that there bike relatively small window time before a bike is returned to a station. This may be used to potentially determine how many bikes will be needed. The trends also indicate the high points in which people utilize the bikes depending if it is a weekday or weekend which shows that the best time for bike maintenance/inspections would be on the weekend from 5A, to 7AM. In addition to this trend, it also shows that a possible large demographic for this business will be people who need transportation to work. The bike-sharing program should also expect a lot more subscribers than customers as well as expect a heavy male user presence. Lastly, it could be expected that a similar amount of bike will leave a return from stations, particularly popular ones.    
 
 2 additional visual data sets:
   Bike ultilization and location and travel of heavily ultilized bikes. Bike ultilization was not placed in story because it cannot say much of a story on its own.
