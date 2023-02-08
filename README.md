@@ -2,6 +2,9 @@
 
 [link to dashboard](https://public.tableau.com/app/profile/andres.martin.rosas/viz/Bike_Challenge_16645726211920/NYCBikeStory "link to dashboard")
 
+## Goal and Findings
+The goal is to create patterns and trends in data of the previous location of the business and use it to manage expectations of a potential new location. Many implications were made through the data such as expecting more subscribers than customers, possible hours of maintenance, and the demographic.
+
 ## Overview
 In an attempt to create a bike-sharing program in Des Moines, a story is created to demonstrate to investors that this idea is a strong business proposal. The data used is based off the CitiBike data of New York City to see what potential patterns and trends that may occur. To create a story with strong visualization, the data needed to be reformatted using pandas. After, Tableau Public was used to make visualizations that will make the data easy to comprehend.
 
